@@ -11,3 +11,4 @@ int main()
    printf("the kinectic energy of the body is:%lf",kinetic);
    return 0;
 }
+
